@@ -17,7 +17,6 @@ Example for ChatGPT:
 ]
 ```
 
-Used Expressions: 
 (x < 10) -->
 ```javascript
 [
