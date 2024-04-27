@@ -12,3 +12,8 @@ This repository contains the research and test generation code for the paper sub
 - [Py-MCDC installed](https://github.com/selabhvl/py-mcdc )
 
 ### This Repo contains the following:
+
+- MC/DC truth tables simpliefied; marked with MC/DC opt. cases: A Overview for manually checking the outputs of Py-MCDC and ChatGPT.
+- ChatGPT_Results.xlsx: Results of the outputs of ChatGPT 3.5 and 4
+- LinksToCreatedChatsWithChatGPT.md: Contains the references to the Chathistories with ChatGPT
+- OutPyMcdc: Generated outputs of the Py-MCDC tool
