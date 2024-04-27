@@ -9,4 +9,4 @@
 - [Chat History for '(x > 0) | (y < 10)' with ChatGPT 3.5](https://chat.openai.com/share/c3b53340-fb0b-44b4-bc94-ec222f440f11)
 - [Chat History for '(x > 0) | (y < 10)' with ChatGPT 4](https://chat.openai.com/share/4fb73588-0d8d-4ca1-97c8-9477a9536b95)
 - [Chat History for '((x > 0) & !(y < 10)) | (!(x > 0) & (y < 10))' with ChatGPT 3.5]()
-- [Chat History for '((x > 0) & !(y < 10)) | (!(x > 0) & (y < 10))' with ChatGPT 4]()
+- [Chat History for '((x > 0) & !(y < 10)) | (!(x > 0) & (y < 10))' with ChatGPT 4](https://chat.openai.com/share/f4715262-e65a-4e74-9dc5-7702398bfc3d)
