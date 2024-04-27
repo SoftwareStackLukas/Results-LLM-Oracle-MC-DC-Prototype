@@ -24,7 +24,7 @@ Example: For the expression (x>10)∣(y<9), the JSON format looks like this:
 Use this format to find the test cases which ensures MC/DC Coverage for a given expression. Consider that any number of varibles can be included in a expressions. Can I send you the expression?
 
 ## Requesting the output
-Please consider the following expression (x < 10). Return me just the states to consider for MC/DC coverage and the values in the JSON-Format.
+Please consider the following expression 'Insert here your expression'. Return me just the states to consider for MC/DC coverage and the values in the JSON-Format.
 
 
 ## Rerun the prompt as the prior results was false
