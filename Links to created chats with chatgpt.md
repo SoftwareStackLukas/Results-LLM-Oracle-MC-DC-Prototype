@@ -1,3 +1,12 @@
-Links to the chatbots:
+# Links to the chatbots:
 
-https://chat.openai.com/share/fabec8a0-bd01-42ba-bce1-eb8d6f53fef5
+(Chat History for '(x < 10)' with ChatGPT 3.5)[]
+(Chat History for '(x < 10)' with ChatGPT 4)[]
+(Chat History for '(x = 10) & (y = 10)' with ChatGPT 3.5)[]
+(Chat History for '(x = 10) & (y = 10)' with ChatGPT 4)[]
+(Chat History for '(w >= x) & (x = y) & (y >= z)' with ChatGPT 3.5)[]
+(Chat History for '(w >= x) & (x = y) & (y >= z)' with ChatGPT 4)[]
+(Chat History for '(x > 0) | (y < 10)' with ChatGPT 3.5)[]
+(Chat History for '(x > 0) | (y < 10)' with ChatGPT 4)[]
+(Chat History for '((x > 0) & !(y < 10)) | (!(x > 0) & (y < 10))' with ChatGPT 3.5)[]
+(Chat History for '((x > 0) & !(y < 10)) | (!(x > 0) & (y < 10))' with ChatGPT 4)[]
