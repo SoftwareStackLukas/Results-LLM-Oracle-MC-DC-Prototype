@@ -29,3 +29,4 @@ Please consider the following expression 'Insert here your expression'. Return m
 
 ## Rerun the prompt as the prior results was false (depending on the result of ChatGPT)
 - Please, rethink your output and fill in numerical values.
+- Rethink the third output of the objects in the array list. The others seem good
