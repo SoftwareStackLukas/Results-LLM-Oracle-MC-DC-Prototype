@@ -87,4 +87,4 @@ Used Expressions:
 	}
 ]
 
-((x > 0) & !(y < 10)) | ( !(x > 0) & (y < 10)) --> 
+((x > 0) & !(y < 10)) | ( !(x > 0) & (y < 10)) --> Masked MC/DC Conditions are not supported by Py-MCDC
