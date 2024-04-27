@@ -1,5 +1,6 @@
-Example:
+Example for ChatGPT:
 (x > 10) | (y < 9) -->
+```javascript
 [
 	{
 	    "x": "11",
@@ -25,6 +26,7 @@ Used Expressions:
 	    "x": "0"
 	}
 ]
+```
 
 (x = 10) & (y = 10) -->
 [
