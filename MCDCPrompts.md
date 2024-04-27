@@ -27,4 +27,5 @@ Use this format to find the test cases which ensures MC/DC Coverage for a given 
 Please consider the following expression 'Insert here your expression'. Return me just the states to consider for MC/DC coverage and the values in the JSON-Format.
 
 
-## Rerun the prompt as the prior results was false
+## Rerun the prompt as the prior results was false (depending on the result of ChatGPT)
+- Please, rethink your output and fill in numerical values.
