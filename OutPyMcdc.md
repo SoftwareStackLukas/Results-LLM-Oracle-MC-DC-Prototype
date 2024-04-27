@@ -15,9 +15,11 @@ Example for ChatGPT:
 	    "y": "9"
 	}
 ]
+```
 
 Used Expressions: 
 (x < 10) -->
+```javascript
 [
 	{
 	    "x": "10"
@@ -29,6 +31,7 @@ Used Expressions:
 ```
 
 (x = 10) & (y = 10) -->
+```javascript
 [
 	{
 	    "x": "10",
@@ -43,8 +46,10 @@ Used Expressions:
 	    "y": "10"
 	}
 ]
+```
     
 (w >= x) & (x = y) & (y >= z) --> 
+```javascript
 [
 	{
 	    "w": "0",
@@ -71,9 +76,10 @@ Used Expressions:
 	    "z": "1"
 	}
 ]
-
+```
 
 (x > 0) | (y < 10) --> 
+```javascript
 [
 	{
 	    "x": "0",
@@ -88,5 +94,6 @@ Used Expressions:
 	    "y": "10"
 	}
 ]
+```
 
 ((x > 0) & !(y < 10)) | ( !(x > 0) & (y < 10)) --> Masked MC/DC Conditions are not supported by Py-MCDC
