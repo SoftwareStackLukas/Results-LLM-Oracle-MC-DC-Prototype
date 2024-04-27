@@ -31,3 +31,4 @@ Please consider the following expression 'Insert here your expression'. Return m
 - Please, rethink your output and fill in numerical values.
 - Rethink the third output of the objects in the array list. The others seem good.
 - Your return JSON is not the optimal solution for MC/DC coverage. Can you improve it?
+- To satifsfie MC/DC coverage we need n + 1 test cases where n is the number of comparisons.
