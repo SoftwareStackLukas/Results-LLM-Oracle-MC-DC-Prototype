@@ -35,3 +35,4 @@ Please consider the following expression 'Insert here your expression'. Return m
 - Consider that the provided exprecsion is a masked MCDC case.
 - A masked MCDC coverage needs just 2 * (√n) cases.
 - This, seems already better. However, one case of yours is wrong and has to be replaced.
+- This, has a similar effect as before. Thus, one case of yours is wrong and has to be replaced. Think again.
