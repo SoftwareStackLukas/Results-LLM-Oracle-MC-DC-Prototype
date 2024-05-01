@@ -8,5 +8,5 @@
 - [Chat History for '(w >= x) & (x = y) & (y >= z)' with ChatGPT 4](https://chat.openai.com/share/92b64fd1-1a07-4ee2-bbeb-422c47027dfd)
 - [Chat History for '(x > 0) | (y < 10)' with ChatGPT 3.5](https://chat.openai.com/share/c3b53340-fb0b-44b4-bc94-ec222f440f11)
 - [Chat History for '(x > 0) | (y < 10)' with ChatGPT 4](https://chat.openai.com/share/4fb73588-0d8d-4ca1-97c8-9477a9536b95)
-- [Chat History for '((x > 0) & !(y < 10)) | (!(x > 0) & (y < 10))' with ChatGPT 3.5](https://chat.openai.com/share/2d3d30db-d0df-4fe1-ac86-828dfeda6f1b)
+- [Chat History for '((x > 0) & !(y < 10)) | (!(x > 0) & (y < 10))' with ChatGPT 3.5](https://chat.openai.com/share/b63ef690-0e96-4d0f-944c-6c541fe8e543)
 - [Chat History for '((x > 0) & !(y < 10)) | (!(x > 0) & (y < 10))' with ChatGPT 4](https://chat.openai.com/share/1d17924b-3429-4cde-8e98-c43ca96477aa)
