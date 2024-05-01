@@ -1,11 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this data, please cite it as below."
 authors:
-  - family-names: Druskat
-    given-names: Stephan
-    orcid: https://orcid.org/1234-5678-9101-1121
-title: "My Research Software"
-version: 2.0.4
+  - family-names: Hofmann
+    given-names: Lukas Sebastian
+  - family-names: Requeno Jarabo
+      given-names: José Ignacio
+  - family-names: Gómez-Martínez
+    given-names: María Elena
+title: "Results for Utilising Large Language Models for Automated Modified Condition/Decision Coverage Test Generation: A Conceptual Framework"
+version: 1.0.6
 identifiers:
   - type: doi
     value: 10.5281/zenodo.1234
