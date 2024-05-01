@@ -3,10 +3,13 @@ message: "If you use this data, please cite it as below."
 authors:
   - family-names: Hofmann
     given-names: Lukas Sebastian
+    orcid: "https://orcid.org/0009-0004-3823-3894"
   - family-names: Requeno Jarabo
-      given-names: José Ignacio
+    given-names: José Ignacio
+    orcid: "https://orcid.org/0000-0001-5111-8357"
   - family-names: Gómez-Martínez
     given-names: María Elena
+    orcid: "https://orcid.org/0000-0002-7753-3345"
 title: "Results for Utilising Large Language Models for Automated Modified Condition/Decision Coverage Test Generation: A Conceptual Framework"
 version: 1.0.6
 doi: 10.5281/zenodo.1234
