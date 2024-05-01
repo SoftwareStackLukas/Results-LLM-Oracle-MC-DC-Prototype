@@ -32,3 +32,6 @@ Please consider the following expression 'Insert here your expression'. Return m
 - Rethink the third output of the objects in the array list. The others seem good.
 - Your return JSON is not the optimal solution for MC/DC coverage. Can you improve it?
 - To satifsfie MC/DC coverage we need n + 1 test cases where n is the number of comparisons.
+- Consider that the provided exprecsion is a masked MCDC case.
+- A masked MCDC coverage needs just 2 * (√n) cases.
+- This, seems already better. However, one case of yours is wrong and has to be replaced.
